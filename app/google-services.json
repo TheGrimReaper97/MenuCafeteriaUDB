@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867345362276",
+    "project_id": "menucafeteriaudb",
+    "storage_bucket": "menucafeteriaudb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867345362276:android:2c2b38ebe585f8cadd9e71",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.menucafeteriaudb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867345362276-9s7om2tgkv5ja3g2jdbi0to2hrn2acgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDddoIdKD30_b5PK4e4DjZPRayEhQFFJVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867345362276-9s7om2tgkv5ja3g2jdbi0to2hrn2acgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
